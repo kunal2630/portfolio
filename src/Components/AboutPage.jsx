@@ -28,7 +28,6 @@ function AboutPage() {
                 <div className='border-b-4 mt-2 border-[#FEC260] w-[5%]'></div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6 text-white font-mono">
-                    {/* Frontend */}
                     <div className="bg-[#282829] p-6 rounded-2xl">
                         <h2 className="text-xl font-semibold flex items-center mb-2 text-[#FEBF5F]">
                             <span className="mr-3 flex items-center justify-center"><ComputerIcon /></span> Frontend
